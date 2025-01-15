@@ -2,6 +2,8 @@
 
 ### LICENSE
 
+Spanish English Exercises is released under the [Apache 2.0 license](LICENSE).
+
 ```
 Copyright 2025 Harun Uzunkaya
 
