@@ -1,0 +1,59 @@
+{
+    com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+      learning: {
+        down: "learning", up: "learning"
+      },
+
+      exercises: {
+        down: "exercises", up: "exercises"
+      },
+      
+      menu: {
+        down: "menu_icon", up:"menu_icon"
+      },
+      
+      lock: {
+        down: "lock", up:"lock"
+      },
+
+      main_menu: {
+        down: "main_menu", up:"main_menu"
+      },
+
+      next_level: {
+        down: "next_level", up:"next_level"
+      },
+      
+      settings: {
+        down: "settings", up:"settings"
+      },
+      
+      music_on: {
+        down: "music_on", up:"music_on"
+      },
+      
+      music_off: {
+        down: "music_off", up:"music_off"
+      },
+      
+      sound_on: {
+        down: "sound_on", up:"sound_on"
+      },
+      
+      sound_off: {
+        down: "sound_off", up:"sound_off"
+      },
+
+      close: {
+        down: "close", up:"close"
+      },
+
+      about: {
+        down: "about", up:"about"
+      },
+      
+      back: {
+        down: "back", up:"back"
+      }
+  }
+}
