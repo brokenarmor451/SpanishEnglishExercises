@@ -53,141 +53,141 @@ public final class LearningStages {
 
     public String[][] stage1() {
         return new String[][] {
-            { "Uno", "Dos", "Tres", "Cuatro", "Cinco", "Seis", "Siete", "Ocho", "Nueve", "Diez", "Once", "Doce", "Trece", "Catorce", "Quince", "Dieciséis", "Diecisiete", "Dieciocho", "Diecinueve", "Veinte"},
-            { "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen", "Twenty"}
+            {"uno", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve", "diez", "once", "doce", "trece", "catorce", "quince", "dieciséis", "diecisiete", "dieciocho", "diecinueve", "veinte"},
+            {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty"}
         };
     }
 
     public String[][] stage2() {
       return new String[][] {
-          {"Gato", "Perro", "Elefante", "Caballo", "Tortuga", "Oveja", "Pato", "Pez", "Rana", "Oso", "Tigre", "Leon", "Cabra", "Gallina", "Conejo", "Ballena", "Vaca", "Lobo", "Zorro", "Cebra"},
-          {"Cat", "Dog", "Elephant", "Horse", "Turtle", "Sheep", "Duck", "Fish", "Frog", "Bear", "Tiger", "Lion", "Goat", "Chicken", "Rabbit", "Whale", "Cow", "Wolf", "Fox", "Zebra"}
+          {"gato", "perro", "elefante", "caballo", "tortuga", "oveja", "pato", "pez", "rana", "oso", "tigre", "leon", "cabra", "gallina", "conejo", "ballena", "vaca", "lobo", "zorro", "cebra"},
+          {"cat", "dog", "elephant", "horse", "turtle", "sheep", "duck", "fish", "frog", "bear", "tiger", "lion", "goat", "chicken", "rabbit", "whale", "cow", "wolf", "fox", "zebra"}
       };
     }
 
     public String[][] stage3() {
       return new String[][] {
-          {"Tiempo", "Semana", "Reloj", "Segundo", "Minuto", "Mes", "Año", "Hora", "Día", "Ahora", "Pasado", "Momento", "Década", "Crepúsculo", "Siglo", "Edad", "Época", "Futuro", "Calendario", "Estación"},
-          {"Time", "Week", "Clock", "Second", "Minute", "Month", "Year", "Hour", "Day", "Now", "Past", "Moment", "Decade", "Dusk", "Century", "Age", "Epoch", "Future", "Calendar", "Season"}
+          {"el tiempo", "la semana", "el reloj", "el segundo", "el minuto", "el mes", "el año", "la hora", "el día", "ahora", "el pasado", "el momento", "la década", "más tarde", "el siglo", "la edad", "la época", "el futuro", "el calendario", "la estación"},
+          {"time", "week", "clock", "second", "minute", "month", "year", "hour", "day", "now", "past", "moment", "decade", "later", "century", "age", "epoch", "future", "calendar", "season"}
       };
     }
 
     public String[][] stage4() {
       return new String[][] {
-          {"Hablar", "Trabajar", "Estudiar", "Cantar", "Ayudar", "Viajar", "Escuchar", "Caminar","Comer","Beber","Leer","Correr","Aprender","Romper", "Ver", "Vivir", "Escribir","Abrir","Compartir", "Subir"},
-          {"To speak", "To work", "To study", "To sing", "To help", "To travel", "To listen", "To walk", "To eat", "To drink", "To read", "To run", "To learn", "To break", "To see", "To live", "To write", "To open", "To share", "To climb"},
+          {"hablar", "trabajar", "estudiar", "cantar", "ayudar", "viajar", "escuchar", "caminar","comer","beber","leer","correr","aprender","romper", "ver", "vivir", "escribir","abrir","compartir", "escalar"},
+          {"to speak", "to work", "to study", "to sing", "to help", "to travel", "to listen", "to walk", "to eat", "to drink", "to read", "to run", "to learn", "to break", "to see", "to live", "to write", "to open", "to share", "to climb"},
       };
     }
 
     public String[][] stage5() {
       return new String[][]{
-        {"Venir", "Ir", "Dar", "Dormir", "Reír", "Traer", "Hacer", "Tener", "Saber", "Querer", "Construir", "Aparecer", "Contar", "Encontrar", "Entrar", "Estar", "Gustar", "Jugar", "Utilizar", "Intentar"},
-        {"To come", "To go", "To give", "To sleep", "To laugh", "To bring", "To do", "To have", "To know", "To want", "To build", "To appear", "To count", "To find", "To enter", "To be", "To like", "To play", "To use", "To try"}
+        {"venir", "ir", "dar", "dormir", "reír", "traer", "hacer", "tener", "saber", "querer", "construir", "aparecer", "contar", "encontrar", "entrar", "estar / ser", "gustar", "jugar", "utilizar", "intentar"},
+        {"to come", "to go", "to give", "to sleep", "to laugh", "to bring", "to do", "to have", "to know", "to want", "to build", "to appear", "to count", "to find", "to enter", "to be", "to like", "to play", "to use", "to try"}
       };
     }
 
     public String[][] stage6() {
       return new String[][]{
-        {"Rojo", "Azul", "Negro", "Blanco", "Verde", "Amarillo", "Morado", "Azul claro", "Coral", "Beige", "Violeta", "Fucsia", "Dorado", "Gris", "Marrón", "Turquesa", "Rosa", "Plateado", "Naranja", "Lila"},
-        {"Red", "Blue", "Black", "White", "Green", "Yellow", "Purple", "Light blue", "Coral", "Beige", "Violet", "Fuchsia", "Golden", "Gray", "Brown", "Turquoise", "Pink", "Silver", "Orange", "Lilac"}
+        {"rojo", "azul", "negro", "blanco", "verde", "amarillo", "morado", "azul claro", "coral", "beige", "violeta", "fucsia", "dorado", "gris", "marrón", "turquesa", "rosa", "plateado", "naranja", "lila"},
+        {"red", "blue", "black", "white", "green", "yellow", "purple", "light blue", "coral", "beige", "violet", "fuchsia", "golden", "gray", "brown", "turquoise", "pink", "silver", "orange", "lilac"}
       };
     }
 
     public String[][] stage7() {
       return new String[][] {
-        {"Cocina", "Plato", "Cuchara", "Tenedor","Cuchillo", "Vaso", "Alimento", "Cacerola", "Colador", "Cucharón","Cuenco", "Pelador", "Rallador", "Rodillo", "Refrigerador", "Hervidor", "Congelador", "Licuadora", "Batidora", "Jarra"},
-        {"Kitchen", "Plate", "Spoon", "Fork", "Knife", "Glass", "Food", "Pan", "Colander", "Ladle", "Bowl", "Peeler", "Grater", "Rolling pin", "Refrigerator", "Kettle", "Freezer", "Blender", "Mixer", "Jug"}
+        {"la cocina", "el plato", "la cuchara", "el tenedor","el cuchillo", "el vaso", "el alimento", "la olla", "el colador", "el cucharón","el cuenco", "el pelador", "el rallador", "el rodillo", "el refrigerador", "el hervidor", "el congelador", "la licuadora", "la batidora", "la jarra"},
+        {"kitchen", "plate", "spoon", "fork", "knife", "glass", "food", "pot", "strainer", "ladle", "bowl", "peeler", "grater", "rolling pin", "refrigerator", "kettle", "freezer", "blender", "mixer", "jug"}
       };
     }
 
     public String[][] stage8() {
       return new String[][]{
-        {"Escritorio", "Silla", "Cuaderno", "Lápiz", "Borrador", "Libro", "Estudiante", "Mochila", "Marcador", "Regla", "Papel", "Computadora", "Calculadora", "Pluma", "Aula", "Tijeras", "Pegamento", "Mapa", "Pizarra", "Grapadora"},
-        {"Desk", "Chair", "Notebook", "Pencil", "Eraser", "Book", "Stduent", "Backpack", "Marker", "Ruler", "Paper", "Computer", "Calculator", "Pen", "Classroom", "Scissors", "Glue", "Map", "Blackboard", "Stapler"}
+        {"el escritorio", "la silla", "el cuaderno", "el lápiz", "el borrador", "el libro", "el proyector", "la mochila", "el marcador", "la regla", "el papel", "la computadora", "la calculadora", "la pluma", "la aula", "las tijeras", "el pegamento", "el mapa", "la pizarra", "la grapadora"},
+        {"desk", "chair", "notebook", "pencil", "eraser", "book", "projector", "backpack", "marker", "ruler", "paper", "computer", "calculator", "pen", "classroom", "scissors", "glue", "map", "board", "stapler"}
       };
     }
 
     public String[][] stage9() {
       return new String[][] {
-        {"Montaña", "Río", "Lago", "Bosque", "Árbol", "Flor", "Roca", "Desierto", "Playa", "Cascada", "Isla", "Cueva", "Valle", "Colina", "Océano", "Nube", "Sol", "Luna", "Nieve", "Viento"},
-        {"Mountain", "River", "Lake", "Forest", "Tree", "Flower", "Rock", "Desert", "Beach", "Waterfall", "Island", "Cave", "Valley", "Hill", "Ocean", "Cloud", "Sun", "Moon", "Snow", "Wind"}
+        {"la montaña", "el río", "el lago", "el bosque", "el árbol", "la flor", "la roca", "el desierto", "la playa", "la cascada", "la isla", "la cueva", "el valle", "la colina", "el océano", "la nube", "el sol", "la luna", "la nieve", "el viento"},
+        {"mountain", "river", "lake", "forest", "tree", "flower", "rock", "desert", "beach", "waterfall", "island", "cave", "valley", "hill", "ocean", "cloud", "sun", "moon", "snow", "wind"}
       };
     }
 
     public String[][] stage10() {
       return new String[][] {
-        {"Manzana", "Plátano", "Naranja", "Uvas", "Piña", "Fresa", "Sandía", "Mango", "Limón", "Durazno", "Pera", "Cereza", "Ciruela", "Albaricoque", "Coco", "Aguacate", "Kiwi", "Papaya", "Higo", "Granada"},
-        {"Apple", "Banana", "Orange", "Grapes", "Pineapple", "Strawberry", "Watermelon", "Mango", "Lemon", "Peach", "Pear", "Cherry", "Plum", "Apricot", "Coconut", "Avocado", "Kiwi", "Papaya", "Fig", "Pomegranate"}
+        {"la manzana", "el plátano", "la naranja", "la uva", "la piña", "la fresa", "la sandía", "el mango", "el limón", "el durazno", "la pera", "la cereza", "la ciruela", "el albaricoque", "el coco", "el aguacate", "el kiwi", "la papaya", "el higo", "el granada"},
+        {"apple", "banana", "orange", "grape", "pineapple", "strawberry", "watermelon", "mango", "lemon", "peach", "pear", "cherry", "plum", "apricot", "coconut", "avocado", "kiwi", "papaya", "fig", "pomegranate"}
       };
     }
 
     public String[][] stage11() {
       return new String[][] {
-        {"Rosa", "Lirio", "Margarita", "Tulipán", "Girasol", "Orquídea", "Clavel", "Jazmín", "Lavanda", "Peonía", "Crisantemo", "Violeta", "Caléndula", "Begonia", "Amapola", "Narciso", "Iris", "Loto", "Magnolia", "Hibisco"},
-        {"Rose", "Lily", "Daisy", "Tulip", "Sunflower", "Orchid", "Carnation", "Jasmine", "Lavender", "Peony", "Chrysanthemum", "Violet", "Marigold", "Begonia", "Poppy", "Daffodil", "Iris", "Lotus", "Magnolia", "Hibiscus"}
+        {"la rosa", "el lirio", "la margarita", "el tulipán", "el girasol", "la orquídea", "el clavel", "el jazmín", "la lavanda", "la peonía", "el crisantemo", "la violeta", "la caléndula", "la begonia", "la amapola", "el narciso", "la dalia", "el loto", "la magnolia", "el hibisco"},
+        {"rose", "lily", "daisy", "tulip", "sunflower", "orchid", "carnation", "jasmine", "lavender", "peony", "chrysanthemum", "violet", "marigold", "begonia", "poppy", "daffodil", "dahlia", "lotus", "magnolia", "hibiscus"}
       };
     }
 
     public String[][] stage12() {
       return new String[][]{
-        {"Casa", "Escuela", "Hospital", "Biblioteca", "Torre", "Granero", "Castillo", "Palacio", "Teatro", "Museo", "Estadio", "Aeropuerto", "Estación de tren", "Fábrica", "Almacén", "Centro comercial", "Apartamento", "Oficina", "Restaurante", "Hotel"},
-        {"House", "School", "Hospital", "Library", "Tower", "Barn", "Castle", "Palace", "Theater", "Museum", "Stadium", "Airport", "Train station", "Factory", "Warehouse", "Mall", "Apartment", "Office", "Restaurant", "Hotel"}
+        {"la casa", "la escuela", "el hospital", "la biblioteca", "la torre", "el granero", "el castillo", "el palacio", "el teatro", "el museo", "el estadio", "la embajada", "la estación de tren", "la fábrica", "la tienda", "el centro comercial", "el apartamento", "la oficina", "el restaurante", "el hotel"},
+        {"house", "school", "hospital", "library", "tower", "barn", "castle", "palace", "theater", "museum", "stadium", "embassy", "train station", "factory", "shop", "mall", "apartment", "office", "restaurant", "hotel"}
       };
     }
 
     public String[][] stage13() {
       return new String[][] {
-        {"Pan", "Arroz", "Pasta", "Queso", "Pollo", "Carne de res", "Pescado", "Huevo", "Leche", "Mantequilla", "Azúcar", "Sal", "Chocolate", "Pizza", "Hamburguesa", "Salchicha", "Sopa", "Bistec", "Taco", "Panqueque"},
-        {"Bread", "Rice", "Pasta", "Cheese", "Chicken", "Beef", "Fish", "Egg", "Milk", "Butter", "Sugar", "Salt", "Chocolate", "Pizza", "Burger", "Sausage", "Soup", "Steak", "Taco", "Pancake"}
+        {"el pan", "el arroz", "la pasta", "el queso", "el pollo", "la carne de res", "el pescado", "el huevo", "la leche", "la mantequilla", "el azúcar", "la sal", "el chocolate", "la pizza", "la hamburguesa", "la salchicha", "la sopa", "el bistec", "el taco", "el panqueque"},
+        {"bread", "rice", "pasta", "cheese", "chicken", "beef", "fish", "egg", "milk", "butter", "sugar", "salt", "chocolate", "pizza", "burger", "sausage", "soup", "steak", "taco", "pancake"}
       };
     }
 
     public String[][] stage14() {
       return new String[][] {
-        {"Suma", "Resta", "Multiplicación", "División", "Ecuación", "Variable", "Función", "Integral", "Derivada", "Fracción", "Porcentaje", "Raíz cuadrada", "Exponente", "Matriz", "Ángulo", "Triángulo", "Círculo", "Radio", "Diámetro", "Logaritmo"},
-        {"Addition", "Subtraction", "Multiplication", "Division", "Equation", "Variable", "Function", "Integral", "Derivative", "Fraction", "Percentage", "Square root", "Exponent", "Matrix", "Angle", "Triangle", "Circle", "Radius", "Diameter", "Logarithm"}
+        {"la suma", "la resta", "la multiplicación", "la división", "la ecuación", "la variable", "la función", "la integral", "la derivada", "la fracción", "el porcentaje", "la raíz cuadrada", "el exponente", "la matriz", "el ángulo", "el triángulo", "el círculo", "el radio", "el diámetro", "el logaritmo"},
+        {"addition", "subtraction", "multiplication", "division", "equation", "variable", "function", "integral", "derivative", "fraction", "percentage", "square root", "exponent", "matrix", "angle", "triangle", "circle", "radius", "diameter", "logarithm"}
       };
     }
 
     public String[][] stage15() {
       return new String[][] {
-        {"Cabeza", "Ojo", "Nariz", "Boca", "Oreja", "Brazo", "Pierna", "Mano", "Pie", "Corazón", "Pulmón", "Estómago", "Cerebro", "Piel", "Hueso", "Músculo", "Dedo", "Dedo del pie", "Espalda", "Rodilla"},
-        {"Head", "Eye", "Nose", "Mouth", "Ear", "Arm", "Leg", "Hand", "Foot", "Heart", "Lung", "Stomach", "Brain", "Skin", "Bone", "Muscle", "Finger", "Toe", "Back", "Knee"}
+        {"la cabeza", "el ojo", "la nariz", "la boca", "la oreja", "el brazo", "la pierna", "la mano", "el pie", "el corazón", "el pulmón", "el estómago", "el cerebro", "la piel", "el hueso", "el músculo", "el dedo", "el dedo del pie", "la espalda", "la rodilla"},
+        {"head", "eye", "nose", "mouth", "ear", "arm", "leg", "hand", "foot", "heart", "lung", "stomach", "brain", "skin", "bone", "muscle", "finger", "toe", "back", "knee"}
       };
     };
 
     public String[][] stage16() {
       return new String[][] {
-        {"Diamante", "Rubí", "Esmeralda", "Zafiro", "Amatista", "Topacio", "Granate", "Ópalo", "Aguamarina", "Turquesa", "Citrino", "Peridoto", "Tanzanita", "Alejandrita", "Espinela", "Morganita", "Turmalina", "Crisoberilo", "Circón", "Piedra de Luna"},
-        {"Diamond", "Ruby", "Emerald", "Sapphire", "Amethyst", "Topaz", "Garnet", "Opal", "Aquamarine", "Turquoise", "Citrine", "Peridot", "Tanzanite", "Alexandrite", "Spinel", "Morganite", "Tourmaline", "Chrysoberyl", "Zircon", "Moonstone"}
+        {"el diamante", "el rubí", "la esmeralda", "el zafiro", "la amatista", "el topacio", "el granate", "el ópalo", "la aguamarina", "la turquesa", "el citrino", "el peridoto", "la tanzanita", "la alejandrita", "la espinela", "la morganita", "la turmalina", "el crisoberilo", "el circón", "la piedra de la luna"},
+        {"diamond", "ruby", "emerald", "sapphire", "amethyst", "topaz", "garnet", "opal", "aquamarine", "turquoise", "citrine", "peridot", "tanzanite", "alexandrite", "spinel", "morganite", "tourmaline", "chrysoberyl", "zircon", "moonstone"}
       };
     }
 
     public String[][] stage17() {
       return new String[][]{
-        {"Oro", "Plata", "Platino", "Cobre", "Hierro", "Aluminio", "Titanio", "Zinc", "Níquel", "Plomo", "Estaño", "Cobalto", "Cromo", "Paladio", "Rodio", "Iridio", "Tungsteno", "Mercurio", "Magnesio", "Litio"},
-        {"Gold", "Silver", "Platinum", "Copper", "Iron", "Aluminum", "Titanium", "Zinc", "Nickel", "Lead", "Tin", "Cobalt", "Chromium", "Palladium", "Rhodium", "Iridium", "Tungsten", "Mercury", "Magnesium", "Lithium"}
+        {"el oro", "la plata", "el platino", "el cobre", "el hierro", "el aluminio", "el titanio", "el zinc", "el níquel", "el plomo", "el estaño", "el cobalto", "el cromo", "el paladio", "el rodio", "el iridio", "el tungsteno", "el mercurio", "el magnesio", "el litio"},
+        {"gold", "silver", "platinum", "copper", "iron", "aluminum", "titanium", "zinc", "nickel", "lead", "tin", "cobalt", "chromium", "palladium", "rhodium", "iridium", "tungsten", "mercury", "magnesium", "lithium"}
       };
     }
 
     public String[][] stage18() {
       return new String[][] {
-        {"Pasaporte", "Equipaje", "Aventura", "Avión", "Moneda", "Boleto", "Destino", "Vacaciones", "Viaje", "Brújula", "Guía", "Camping", "Turista", "Vuelo", "Reserva", "Turismo", "Tour", "Crucero", "Aeropuerto", "Idioma"},
-        {"Passport", "Luggage", "Adventure", "Airplane", "Currency", "Ticket", "Destination", "Vacation", "Journey", "Compass", "Guide", "Campamento", "Tourist", "Flight", "Reservation", "Sightseeing", "Tour", "Cruise", "Airport", "Language"}
+        {"el pasaporte", "el equipaje", "la aventura", "el avión", "la moneda", "el boleto", "el destino", "las vacaciones", "el viaje", "la brújula", "la linterna", "el cámping", "la gorra", "el vuelo", "la reserva", "el turismo", "el recorrido", "el crucero", "el aeropuerto", "el idioma"},
+        {"passport", "luggage", "adventure", "airplane", "currency", "ticket", "destination", "vacation", "journey", "compass", "torch", "camping", "cap", "flight", "reservation", "sightseeing", "tour", "cruise", "airport", "language"}
       };
     };  
 
     public String[][] stage19() {
       return new String[][] {
-        {"Cojín", "Mesa", "Sofá", "Cama", "Alfombra", "Sillón reclinable", "Estantería", "Taburete", "Gabinete", "Cómoda", "Mesita de noche", "Espejo", "Sillón", "Banco", "Diván", "Estante", "Cajón", "Cuna", "Mesa de comedor", "Mueble para televisor"},
-        {"Cushion", "Table", "Sofa", "Bed", "Rug", "Recliner", "Bookshelf", "Stool", "Cabinet", "Dresser", "Nightstand", "Mirror", "Armchair", "Bench", "Couch", "Shelf", "Drawer", "Crib", "Dining table", "TV stand"}
+        {"el cojín", "la mesa", "las escaleras", "la cama", "la alfombra", "la televisión", "la estantería", "el taburete", "el gabinete", "la cómoda", "la mesita de noche", "el espejo", "el sillón", "la puerta", "la ventana", "la luz", "la pared", "la lámpara", "la mesa de comedor", "el mueble de televisión"},
+        {"cushion", "table", "stairs", "bed", "rug", "television", "bookshelf", "stool", "cabinet", "dresser", "nightstand", "mirror", "armchair", "door", "window", "light", "wall", "lamp", "dining table", "TV stand"}
       };
     }
 
     public String[][] stage20() {
       return new String[][] {
-        {"Zanahoria", "Patata", "Tomate", "Pepino", "Lechuga", "Espinaca", "Brócoli", "Coliflor", "Cebolla", "Ajo", "Guisantes", "Calabacín", "Berenjena", "Pimiento", "Repollo", "Rábano", "Calabaza", "Maíz", "Remolacha", "Judías verdes"},
-        {"Carrot", "Potato", "Tomato", "Cucumber", "Lettuce", "Spinach", "Broccoli", "Cauliflower", "Onion", "Garlic", "Peas", "Zucchini", "Eggplant", "Pepper", "Cabbage", "Radish", "Pumpkin", "Corn", "Beetroot", "Green beans"}
+        {"la zanahoria", "la patata", "el tomate", "el pepino", "la lechuga", "la espinaca", "el brócoli", "la coliflor", "la cebolla", "el ajo", "los guisantes", "el calabacín", "la berenjena", "el pimiento", "el repollo", "el rábano", "la calabaza", "el maíz", "la remolacha", "las judías verdes"},
+        {"carrot", "potato", "tomato", "cucumber", "lettuce", "spinach", "broccoli", "cauliflower", "onion", "garlic", "peas", "zucchini", "eggplant", "pepper", "cabbage", "radish", "pumpkin", "corn", "beetroot", "green beans"}
       };
     }
 }
